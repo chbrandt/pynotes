@@ -5,21 +5,21 @@
  <RESOURCE type="results">
   <TABLE>
    <FIELD ID="energy" datatype="double" name="energy" unit="Hz"/>
-   <FIELD ID="Denergy" datatype="long" name="Denergy" unit=""/>
    <FIELD ID="flux" datatype="double" name="flux" unit="erg.s-1.cm-2"/>
-   <FIELD ID="Dflux" datatype="long" name="Dflux" unit=""/>
+   <FIELD ID="Denergy" datatype="long" name="Denergy" unit=""/>
+   <FIELD ID="Dflux" datatype="long" name="Dflux"/>
    <DATA>
     <TABLEDATA>
      <TR>
       <TD>3.5568623332685593e+25</TD>
-      <TD>-999</TD>
       <TD>1.0702182436389493e-11</TD>
+      <TD>-999</TD>
       <TD>-999</TD>
      </TR>
      <TR>
       <TD>7.3410156653999646e+25</TD>
-      <TD>-999</TD>
       <TD>7.9952520775902693e-13</TD>
+      <TD>-999</TD>
       <TD>-999</TD>
      </TR>
     </TABLEDATA>
