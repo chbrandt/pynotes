@@ -1,0 +1,6 @@
+cs82_centralSquare.fits filter=lfs diff=lfs merge=lfs -text
+cs82_luckSquare.fits filter=lfs diff=lfs merge=lfs -text
+sdss_centralSquare.fits filter=lfs diff=lfs merge=lfs -text
+spiesCh1_centralSquare.fits filter=lfs diff=lfs merge=lfs -text
+spiesCh2_centralSquare.fits filter=lfs diff=lfs merge=lfs -text
+vla_luckSquare.fits filter=lfs diff=lfs merge=lfs -text
